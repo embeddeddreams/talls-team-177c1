@@ -29,7 +29,7 @@ sections:
       - image: images/1200px-.NET_Core_Logo.svg.png
         image_alt: Netlify logo
         image_align: center
-      - image: images/logo-3.svg
+      - image: images/1280px-Node.js_logo.svg.png
         image_alt: Gatsby logo
         image_align: center
       - image: images/logo-4.svg
