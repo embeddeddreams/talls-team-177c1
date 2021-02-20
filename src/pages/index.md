@@ -32,7 +32,7 @@ sections:
       - image: images/1280px-Node.js_logo.svg.png
         image_alt: Gatsby logo
         image_align: center
-      - image: images/612-6126558_react-logo-png-react-js-logo-svg-transparent.png
+      - image: images/1280px-React-icon.svg.png
         image_alt: Sanity logo
         image_align: center
       - image: images/angular-icon-logo.png
