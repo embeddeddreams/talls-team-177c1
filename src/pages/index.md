@@ -35,7 +35,7 @@ sections:
       - image: images/612-6126558_react-logo-png-react-js-logo-svg-transparent.png
         image_alt: Sanity logo
         image_align: center
-      - image: images/logo-5.svg
+      - image: images/angular-icon-logo.png
         image_alt: DatoCMS logo
         image_align: center
       - image: images/logo-6.svg
