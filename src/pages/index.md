@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Hire all team
+    title: Hire 
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel.
