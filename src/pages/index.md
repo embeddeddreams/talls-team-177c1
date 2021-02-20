@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     title: Hire all team, not only freelancers
     content: >-
-      Our developer team have a wide range of technology stack 
+      Our developer team have a wide range of technology stack about web and mobile development.
     actions:
       - label: Try Free
         url: /pricing
