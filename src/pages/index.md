@@ -20,7 +20,6 @@ sections:
     background_color: primary
   - type: grid_section
     title: Technology Stack
-    subtitle: Grid Section Example
     align: center
     grid_items:
       - image: images/Google-flutter-logo.png
