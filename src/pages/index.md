@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Hire all team, not only freelancer 
+    title: Hire all team, not only freelancers
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel.
