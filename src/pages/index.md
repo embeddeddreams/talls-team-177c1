@@ -7,9 +7,6 @@ sections:
       Our developer team have a wide range of technology stack about web and
       mobile development.
     actions:
-      - label: Try Free
-        url: /pricing
-        style: primary
       - label: Learn More
         url: /features
         style: secondary
