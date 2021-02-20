@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     title: Hire all team, not only freelancers
     content: >-
-      Our developer 
+      Our developer team includes various 
     actions:
       - label: Try Free
         url: /pricing
