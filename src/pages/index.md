@@ -44,7 +44,7 @@ sections:
       - image: images/1173px-Android_logo_2019.svg.png
         image_alt: Gridsome logo
         image_align: center
-      - image: images/logo-8.svg
+      - image: images/vertical-logo-monochromatic.png
         image_alt: Git logo
         image_align: center
     grid_cols: four
