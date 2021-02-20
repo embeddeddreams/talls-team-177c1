@@ -19,7 +19,7 @@ sections:
     padding_bottom: large
     background_color: primary
   - type: grid_section
-    title: Technology Stack
+    title: Our Technology Stack
     align: center
     grid_items:
       - image: images/Google-flutter-logo.png
