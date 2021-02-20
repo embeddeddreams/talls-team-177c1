@@ -38,7 +38,8 @@ sections:
       - image: images/angular-icon-logo.png
         image_alt: DatoCMS logo
         image_align: center
-      - image: images/logo-6.svg
+      - image: >-
+          images/png-transparent-iphone-5-ipod-touch-apple-ios-11-apple-angle-white-text.png
         image_alt: Next.js logo
         image_align: center
       - image: images/1173px-Android_logo_2019.svg.png
